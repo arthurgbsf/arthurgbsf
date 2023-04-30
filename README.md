@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur Godinho Barbosa</h1>
-<h3 align="center">Full stack developer looking for the first opportunity. Reading, watching series and exercising daily is what I like to do in time out!</h3>
+<h3 align="center">Full stack developer looking for the first opportunity.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
